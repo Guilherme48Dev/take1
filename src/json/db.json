@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "titulo": "Caça às Bruxas",
+        "capa": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/33/68/19874449.jpg",
+        "link": "https://www.youtube.com/embed/h0OIrhE2fx8?si=MaAwvdJLz0eDj-ti"
+    },
+    {
+        "id": 2,
+        "titulo": "O Jogo da Imitação",
+        "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/14/10/30/19/02/198128.jpg",
+        "link": "https://www.youtube.com/embed/bMMLp4X0-Z4?si=bKCAohBnf_qFmCC4"
+    },
+    {
+        "id": 3,
+        "titulo": "Nunca Fomos Tão Felizes",
+        "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/15/10/30/22/22/551045.jpg",
+        "link": "https://www.youtube.com/embed/_aCbCeiZ26k?si=GtOoBjAODyoGcGGl"
+    },
+    {
+        "id": 4,
+        "titulo": "O Super Heroi",
+        "capa": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/87/23/87/19873431.jpg",
+        "link": "https://www.youtube.com/embed/Sp66MRrS8XA?si=WtQiY2BK7EBLpFy3"
+    },
+    {
+        "id": 5,
+        "titulo": "A Mentira",
+        "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/15/10/30/22/22/551045.jpg",
+        "link": "https://www.youtube.com/watch?v=G6jmdOo3j5I"
+    },
+    {
+        "id": 6,
+        "titulo": "Deu a Louca na Chapeuzinho",
+        "capa": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/77/49/19961415.jpg",
+        "link": "https://www.youtube.com/embed/6uomneUnsrU?si=WTFYLFgiK21sVqlL"
+    },
+    {
+        "id": 7,
+        "titulo": "Matilda",
+        "capa": "https://br.web.img2.acsta.net/c_310_420/pictures/210/123/21012312_20130613132958221.jpg",
+        "link": "https://www.youtube.com/embed/H1DxZX0jfZA?si=siBZN7fAkwi_OrnI"
+    },
+    {
+        "id": 8,
+        "titulo": "A Família da Noiva",
+        "capa": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/92/43/14/20198877.jpg",
+        "link": "https://www.youtube.com/embed/vLTtvMOUyyE?si=pqpXkjI8LoPqFuwc"
+    },
+    {
+        "id": 9,
+        "titulo": "A Paixão de Cristo",
+        "capa": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/65/02/20106873.jpg",
+        "link": "https://www.youtube.com/embed/BVndfGHPt1E?si=1bUnt2slIGkE2x1K"
+    },
+    {
+        "id": 10,
+        "titulo": "Anton",
+        "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/20/07/01/15/49/1738469.jpg",
+        "link": "https://www.youtube.com/embed/VEQ2R5y6qx8?si=HROtloUiZSB-MjMU"
+    },
+    {
+        "id": 11,
+        "titulo": "A Queda",
+        "capa": "https://br.web.img3.acsta.net/c_310_420/pictures/22/10/04/19/16/5487644.jpg",
+        "link": "https://www.youtube.com/watch?v=9YhHZe1HE44"
+    },
+    {
+        "id": 12,
+        "titulo": "Inatividade Paranormal",
+        "capa": "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/94/14/75/20420264.jpg",
+        "link": "https://www.youtube.com/embed/Q2YEICUJZ0c?si=JAONytV5m_aKRJ9Q"
+    }
+]

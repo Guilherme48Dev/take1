@@ -1,0 +1,20 @@
+:root {
+  --titulo : 'Bangers', serif;
+  --text : 'Montserrat', sans-serif;
+  --preto : #000000;
+  --branco : #FFFFFF;
+  --cinza : #E2E2E2;
+}
+
+body {
+  margin: 0;
+  font-family: var(--text);
+  background-color: var(--cinza);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
